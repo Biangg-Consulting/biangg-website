@@ -1,0 +1,871 @@
+{
+    "header": {
+        "home": "Accueil",
+        "solutions": "Solutions",
+        "health": "Santé",
+        "nutrition": "Nutrition",
+        "dashboard": "Tableau de bord",
+        "logout": "Déconnexion",
+        "education": "Éducation",
+        "public_sector": "Secteur Public",
+        "resources": "Ressources",
+        "training": "Formation",
+        "research_service": "Service de Recherche",
+        "weight_loss": "Perte de Poids",
+        "media": "Médias",
+        "publications": "Nos Publications",
+        "how_we_work": "Comment Nous Travaillons",
+        "projects": "Centre de Données",
+        "about": "À Propos",
+        "login": "Connexion",
+        "register": "Inscription",
+        "learn_more": "En Savoir Plus",
+        "health_page": {
+            "cta_title": "Rejoignez Notre Initiative de Recherche en Santé",
+            "cta_content": "Contribuez à une recherche révolutionnaire qui transforme les systèmes de santé à travers l'Afrique.",
+            "cta_primary": "Partenariat",
+            "cta_secondary": "En savoir plus sur le financement",
+            "title": "Santé",
+            "intro": "La santé est un droit humain qui nécessite un état complet de bien-être physique, mental et social, et pas seulement l'absence de maladie ou d'infirmité.",
+            "collaboration": "Nous collaborons avec les gouvernements, les organisations internationales et les leaders du secteur de la santé pour rendre les soins de santé plus accessibles.",
+            "our_studies": "Nos Études",
+            "gabon_health_system": {
+                "title": "Système de santé gabonais : une analyse sur 20 ans",
+                "content": "En réponse à la prévalence élevée du VIH/SIDA et du paludisme, le gouvernement gabonais a lancé la Caisse Nationale d'Assurance Maladie et de Garantie Sociale en 2008. Il s'agit d'une assurance maladie nationale votée par le Parlement pour étendre la couverture santé à différents groupes socio-économiques du pays, rassemblant tout le monde sous un même régime d'assurance maladie sociale. Cependant, les dépenses directes (21,87 %) en pourcentage des dépenses totales de santé restent plus élevées que dans d'autres pays d'Afrique subsaharienne classés comme pays à revenu intermédiaire supérieur.",
+                "read_more": "Lire la suite",
+                "analyze_data": "Analyser les données",
+                "stats": {
+                    "out_of_pocket": "Dépenses directes",
+                    "year_established": "Année de création"
+                }
+            },
+            "sexual_harassment": {
+                "title": "Harcèlement sexuel et santé mentale dans les écoles africaines",
+                "content": "Le cabinet de recherche Biangg a déjà collecté près de 3000 points de données sur le harcèlement sexuel et la santé mentale dans les écoles à travers l'Afrique. Seulement 2,85 % des victimes l'ont signalé et seulement 18,11 % des institutions ont une politique contre le harcèlement sexuel. Nos études au Gabon, au Rwanda et au Tchad montrent une prévalence élevée avec plus de 21 % des élèves pensant qu'il serait préférable de mourir ou envisageant de se faire du mal d'une manière ou d'une autre. Notre objectif est de soutenir les décideurs politiques avec des données factuelles pour les aider à créer un environnement enrichissant pour les élèves.",
+                "support": "Vous pouvez soutenir la poursuite de cette étude en faisant un don ici",
+                "read_more": "Lire la suite",
+                "students": "Élèves",
+                "stats": {
+                    "reported": "Cas signalés",
+                    "policies": "Écoles avec politiques",
+                    "depression": "Taux de dépression"
+                }
+            },
+            "socioeconomic_status": {
+                "title": "Statut socio-économique et dépression périnatale",
+                "content": "Le statut socio-économique mesure la position sociale d'une personne ou d'une famille en fonction du revenu, de l'éducation et de la profession. Les inégalités socio-économiques augmentent. Nos résultats préliminaires montrent un lien entre la dépression périnatale (70 %), la violence physique contre les femmes pendant la grossesse (8 %), les pensées suicidaires (13 %), l'usage de cigarettes pendant la grossesse (28 %) et les taux de mortalité.",
+                "support": "Vous pouvez soutenir la poursuite de cette étude en faisant un don ici",
+                "read_more": "Lire la suite",
+                "stats": {
+                    "depression": "Dépression périnatale",
+                    "violence": "Violence physique",
+                    "smoking": "Tabagisme pendant la grossesse"
+                }
+            }
+        },
+        "nutrition_page": {
+            "title": "Nutrition Publique Santé",
+            "intro": "Nutrition & Sécurité Alimentaire",
+            "hero_image_alt": "Alimentation saine et nutrition",
+            "food_security_label": "Sécurité Alimentaire",
+            "food_security_title": "Garantir l'Accès à une Alimentation Nutritive",
+            "food_security_description": "Pour garantir la sécurité alimentaire, vous avez besoin d'un accès permanent à des quantités adéquates d'aliments nutritifs et sains, vous permettant de mener une vie saine et active.",
+            "our_studies": "Nos Études",
+            "impact_title": "Défis Nutritionnels Mondiaux",
+            "impact": {
+                "global_hunger": "Personnes confrontées à la faim dans le monde",
+                "africa_hunger": "Personnes confrontées à la faim en Afrique",
+                "data_collected": "Points de données nutritionnelles collectés"
+            },
+            "cta_title": "Rejoignez Notre Initiative Nutrition",
+            "cta_content": "Avec 1 personne sur 11 confrontée à la faim en 2023, et 1 sur 5 en Afrique (OMS), Biangg propose des outils de recherche et des politiques pour réduire l'insécurité alimentaire. Nous avons également conçu un programme de perte de poids pour prévenir les maladies cardiovasculaires.",
+            "cta_primary": "Découvrez Nos Programmes",
+            "cta_secondary": "Soutenez Notre Recherche",
+            "women_migrants": {
+                "title": "Aperçu de la santé des femmes migrantes en Corée du Sud : recommandations politiques",
+                "content": "En réponse à la prévalence élevée du VIH/SIDA et du paludisme, le gouvernement gabonais a lancé la Caisse Nationale d'Assurance Maladie et de Garantie Sociale en 2008. Il s'agit d'une assurance maladie nationale votée par le Parlement pour étendre la couverture santé à différents groupes socio-économiques du pays, rassemblant tout le monde sous un même régime d'assurance maladie sociale. Cependant, les dépenses directes (21,87 %) en pourcentage des dépenses totales de santé restent plus élevées que dans d'autres pays d'Afrique subsaharienne classés comme pays à revenu intermédiaire supérieur.",
+                "read_more": "Lire l'étude",
+                "analyze_data": "Analyser les données",
+                "stats": {
+                    "year_established": "Année de création",
+                    "health_expenditures": "Dépenses de santé directes"
+                }
+            },
+            "foreign_students": {
+                "title": "Acculturation Alimentaire des Étudiants Étrangers à Daegu",
+                "content": "Le cabinet de recherche Biangg a déjà collecté près de 3000 points de données sur le harcèlement sexuel et la santé mentale dans les écoles à travers l'Afrique. Seulement 2,85 % des victimes l'ont signalé et seulement 18,11 % des institutions ont une politique contre le harcèlement sexuel. Nos études au Gabon, au Rwanda et au Tchad montrent une prévalence élevée avec plus de 21 % des élèves pensant qu'il serait préférable de mourir ou envisageant de se faire du mal d'une manière ou d'une autre. Notre objectif est de soutenir les décideurs politiques avec des données factuelles pour les aider à créer un environnement enrichissant pour les élèves.",
+                "read_more": "Lire l'étude",
+                "support": "Vous pouvez soutenir la poursuite de cette étude en faisant un don ici",
+                "stats": {
+                    "data_points": "Points de données collectés",
+                    "cases_reported": "Cas signalés",
+                    "mental_health": "Problèmes de santé mentale"
+                }
+            },
+            "dental_health": {
+                "title": "La présence de caries dentaires est associée au niveau d'éducation des mères chez les enfants et adolescents coréens",
+                "content": "Les caries dentaires restent l'une des maladies chroniques les plus courantes affectant les enfants dans le monde avec une étiologie multifactorielle. L'étude a évalué l'association entre le statut socio-économique (SSE), l'apport alimentaire, l'insécurité alimentaire (IA) et les caries dentaires chez les enfants et adolescents coréens. L'étude a utilisé les données de l'Enquête Nationale Coréenne sur la Santé et la Nutrition (KNHANES), menée sur 2 ans avec 1 559 garçons et 1 391 filles coréennes âgés de 2 à 18 ans entre 2012 et 2013. Le niveau d'éducation des pères (P = 0,017), des mères (P < 0,001) et le revenu du ménage (P = 0,049) étaient tous significativement associés aux caries dentaires chez les garçons coréens.",
+                "read_more": "Lire l'étude",
+                "stats": {
+                    "boys": "Garçons étudiés",
+                    "girls": "Filles étudiées",
+                    "study_years": "Période d'étude"
+                }
+            }
+        },
+        "education_page": {
+            "title": "Éducation",
+            "intro": "L'éducation peut changer le statut socio-économique d'une personne et celui de sa famille tout en contribuant à son bien-être physique, mental et social.",
+            "description": "Notre recherche vise à améliorer les modèles d'apprentissage et le contenu académique tout en réduisant les inégalités éducatives.",
+            "hero_image_alt": "L'éducation peut transformer des vies",
+            "our_studies": "Nos Études",
+            "impact_title": "Notre Impact en Éducation",
+            "impact": {
+                "data_points": "Points de données collectés",
+                "countries": "Pays étudiés",
+                "children": "Enfants dans les études"
+            },
+            "cta_title": "Vous avez un projet éducatif ?",
+            "cta_content": "Contactez-nous pour discuter de vos besoins en recherche dans le domaine de l'éducation et des modèles d'apprentissage.",
+            "cta_primary": "Planifier une consultation",
+            "cta_secondary": "Contacter notre équipe",
+            "view_study": "Voir l'étude complète",
+            "dental_study": {
+                "title": "La présence de caries dentaires est associée au niveau d'éducation des mères chez les enfants et adolescents coréens",
+                "content": "Les caries dentaires restent l'une des maladies chroniques les plus courantes affectant les enfants dans le monde avec une étiologie multifactorielle. L'étude a évalué l'association entre le statut socio-économique (SSE), l'apport alimentaire, l'insécurité alimentaire (IA) et les caries dentaires chez les enfants et adolescents coréens. L'étude a utilisé les données de l'Enquête Nationale Coréenne sur la Santé et la Nutrition (KNHANES), menée sur 2 ans avec 1 559 garçons et 1 391 filles coréennes âgés de 2 à 18 ans entre 2012 et 2013.",
+                "image_alt": "Étude sur la santé dentaire d'une mère et son fils",
+                "stats": {
+                    "boys": "Garçons étudiés",
+                    "girls": "Filles étudiées",
+                    "years": "Années d'étude"
+                }
+            },
+            "harassment_study": {
+                "title": "Harcèlement sexuel et santé mentale dans les écoles",
+                "content": "Le cabinet de recherche Biangg a déjà collecté près de 3000 points de données sur le harcèlement sexuel et la santé mentale dans les écoles à travers l'Afrique. Seulement 2,85 % des victimes l'ont signalé et seulement 18,11 % des institutions ont une politique contre le harcèlement sexuel. Nos études au Gabon, au Rwanda et au Tchad montrent une prévalence élevée avec plus de 21 % des élèves pensant qu'il serait préférable de mourir ou envisageant de se faire du mal d'une manière ou d'une autre.",
+                "image_alt": "Élèves dans les écoles africaines",
+                "support": "Vous pouvez soutenir la poursuite de cette étude en faisant un don ici",
+                "stats": {
+                    "reported": "Cas signalés",
+                    "policies": "Écoles avec politiques",
+                    "depression": "Taux de dépression"
+                }
+            },
+            "violence_study": {
+                "title": "Le niveau d'éducation des femmes est associé à la violence domestique",
+                "content": "Le statut socio-économique mesure la position sociale d'une personne ou d'une famille en fonction du revenu, de l'éducation et de la profession. Nos résultats préliminaires montrent que les femmes victimes de violence domestique pendant la grossesse (8 %) n'avaient pas d'éducation universitaire et n'avaient pas d'emploi rémunéré.",
+                "image_alt": "Éducation des femmes et violence domestique",
+                "support": "Vous pouvez soutenir la poursuite de cette étude en faisant un don ici",
+                "stats": {
+                    "violence": "Violence pendant la grossesse",
+                    "university": "Avec éducation universitaire",
+                    "unemployed": "Sans emploi rémunéré"
+                }
+            }
+        },
+        "public_page": {
+            "title": "Secteur Public",
+            "intro": "L'engagement communautaire facilite la résolution des problèmes sociétaux et crée des relations mutuellement bénéfiques.",
+            "description": "Biangg vous aide à résoudre des problèmes sociaux complexes grâce à l'engagement communautaire, la recherche et la formation.",
+            "our_studies": "Nos Études",
+            "impact_title": "Notre Impact dans le Secteur Public",
+            "impact": {
+                "studies": "Études Publiées",
+                "participants": "Participants aux Études",
+                "variables": "Variables Sociales Analysées"
+            },
+            "cta_title": "Vous avez un projet dans le secteur public ?",
+            "cta_content": "Contactez-nous pour discuter de vos besoins en recherche et engagement communautaire.",
+            "cta_primary": "Planifier une Réunion",
+            "cta_secondary": "Envoyer un Message",
+            "order_report": "Commander le Rapport",
+            "view_study": "Voir l'Étude Complète",
+            "voting_study": {
+                "title": "Voter ou ne pas voter : comment augmenter la participation citoyenne",
+                "content": "Dans cette étude, nous avons examiné les raisons pour ou contre la participation citoyenne au vote. Nous avons identifié 6 variables d'intérêt associées à la participation citoyenne au vote : devoir civique, incertitude des résultats, habitude de vote, âge, intérêt politique et disponibilité des ressources.",
+                "image_alt": "Étude sur le vote",
+                "stats": {
+                    "variables": "Variables étudiées",
+                    "country": "Gabon",
+                    "country_label": "Pays d'étude"
+                }
+            },
+            "alcohol_study": {
+                "title": "Alcoolisme, addiction et comportements à risque",
+                "content": "L'alcoolisme tue environ 3 millions de personnes par an, soit 5,3 % mondialement. Cette étude menée à Libreville avec 554 participants montre que la catégorie d'âge de 40 ans et plus est à risque de développer une dépendance à l'alcool, que la consommation d'alcool est liée au statut socio-économique, et que les hommes ont deux fois plus de risques de développer une dépendance.",
+                "image_alt": "Étude sur l'alcoolisme",
+                "stats": {
+                    "participants": "Participants",
+                    "accidents": "Accidents liés à l'alcool",
+                    "risk": "Risque hommes vs femmes"
+                }
+            },
+            "teachers_study": {
+                "title": "La durée de résidence est associée aux facteurs de risque de maladies cardiovasculaires chez les enseignants d'anglais étrangers en Corée",
+                "content": "Cette étude a examiné l'association entre l'acculturation et les facteurs de risque de MCV chez les enseignants d'anglais d'Europe et des États-Unis vivant en Corée. Les résultats montrent que la durée de résidence en Corée était associée à l'hypertension, à l'IMC et à l'inactivité physique, avec des profils de risque moins favorables chez ceux vivant en Corée depuis plus de cinq ans.",
+                "image_alt": "Étude sur la santé des enseignants d'anglais",
+                "stats": {
+                    "men": "Hommes à risque",
+                    "women": "Femmes à risque",
+                    "threshold": "Seuil de risque accru"
+                }
+            }
+        }
+    },
+    "hero": {
+        "badge": "Solutions Innovantes",
+        "title": "Transformer la Recherche en Action",
+        "description": "À partir de nos projets de recherche, nous développons des analyses approfondies, formulons des recommandations concrètes et fournissons des formations ciblées pour les gestionnaires afin d'améliorer l'accès à l'éducation, aux soins de santé et aux services sociaux.",
+        "primary_button": "Nos Projets",
+        "title_highlight": "Biangg...",
+        "scroll_hint": "Défiler vers le Bas",
+        "secondary_button": "En Savoir Plus",
+        "stats": {
+            "projects": "Projets Terminés",
+            "success": "Taux de Réussite",
+            "years": "Années d'Expérience"
+        },
+        "image_alt": "Équipe travaillant sur un projet de recherche"
+    },
+    "projects": {
+        "title": "Nos Projets en Cours",
+        "participation_note": "Si vous êtes au lycée ou à l'université et souhaitez participer à notre étude, cliquez sur le pays où vous vous trouvez. Si le pays n'est pas listé, envoyez-nous un message à global@biangg.ca",
+        "harcelement": {
+            "title": "Harcèlement Sexuel dans les Écoles en Afrique",
+            "description": "Nous menons actuellement la plus grande étude jamais réalisée sur la prévalence du harcèlement sexuel dans les écoles de certains pays africains.",
+            "countries": [
+                "Congo (RDC-Bukavu)",
+                "Congo (RDC-Kinshasa)",
+                "Gabon",
+                "Rwanda",
+                "Tchad",
+                "Côte d'Ivoire",
+                "Burundi"
+            ],
+            "action_text": "Participez à l'étude en sélectionnant le pays où vous résidez",
+            "support_text": "Merci de nous soutenir financièrement"
+        },
+        "depression": {
+            "title": "Statut Socio-Économique & Dépression Périnatale",
+            "description": "Nous avons besoin de votre aide pour proposer des solutions qui contribueront au bien-être des femmes enceintes et de celles souffrant de dépression post-partum en Afrique. Nos données préliminaires montrent déjà la relation entre le statut social des femmes, l'utilisation des services de santé et l'homicide volontaire dû à la dépression périnatale.",
+            "action_text": "Participer à l'étude"
+        },
+        "alcool": {
+            "title": "Consommation d'Alcool et Risques de Blessures",
+            "description": "Nous demandons environ deux minutes de votre temps pour cette étude mondiale sur la consommation d'alcool et les dommages physiques, matériels, sanitaires et psychologiques afin de mieux éduquer les populations et les gouvernements sur cette question sociale. Votre participation est anonyme. Aucune information personnelle ne sera enregistrée.",
+            "action_text": "Pour participer à cette étude, cliquez ici"
+        }
+    },
+    "services": {
+        "title": "Nos Services",
+        "conseil": {
+            "category": "Conseil",
+            "items": [
+                "Conseil en Gestion",
+                "Évaluation",
+                "Planification Stratégique",
+                "Gestion de Projet"
+            ]
+        },
+        "formation": {
+            "category": "Formation",
+            "items": [
+                "Formation sur Site",
+                "Webinaires",
+                "Coaching"
+            ]
+        },
+        "recherche": {
+            "category": "Recherche",
+            "items": [
+                "Recherche Quantitative",
+                "Recherche Qualitative",
+                "Enquêtes (Questionnaires)",
+                "Méthodes Mixtes",
+                "Groupes de Discussion"
+            ]
+        },
+        "analyse": {
+            "category": "Analyse de Données",
+            "items": [
+                "Gestion des Données",
+                "Analyse Descriptive",
+                "Analyse Prédictive",
+                "Rapports et Visualisation",
+                "Géostatistiques"
+            ]
+        }
+    },
+    "values": {
+        "title": "Nos Valeurs Partagées",
+        "description1": "Chez Biangg, les valeurs partagées nous permettent de fournir des solutions à des problèmes sociaux complexes grâce à l'engagement communautaire, la recherche et la formation.",
+        "description2": "Créer une valeur partagée répond aux besoins et défis sociétaux avec un modèle commercial. Cela va au-delà de la philanthropie ou de la responsabilité sociale des entreprises. Cette approche commerciale contribue au bien-être de nos actionnaires, de la société et de la planète.",
+        "consultation_text": "Consultation Gratuite (45 min)",
+        "reserve_button": "Réserver Maintenant"
+    },
+    "theme": {
+        "light": "Mode Clair",
+        "dark": "Mode Sombre"
+    },
+    "about": {
+        "title": "À Propos de Nous",
+        "subtitle": "Notre Engagement pour l'Excellence",
+        "description1": "Biangg est un cabinet de recherche qui aide les gouvernements et les institutions à prospérer dans un marché dynamique en fournissant des solutions à des problèmes sociaux complexes grâce à l'engagement communautaire, la recherche et la formation.",
+        "description2": "Notre approche interdisciplinaire combine des expertises en santé publique, sciences sociales et analyse de données pour créer des impacts mesurables.",
+        "stats": {
+            "years": "Années d'Expérience",
+            "projects": "Projets Terminés",
+            "countries": "Pays d'Intervention"
+        },
+        "cta": "Rencontrez Notre Équipe →",
+        "team_button": "Rencontrer l'Équipe",
+        "video": {
+            "title": "Notre Histoire en Mouvement",
+            "description": "Découvrez notre parcours et nos valeurs"
+        },
+        "features": {
+            "experienced_team": {
+                "title": "Équipe Expérimentée",
+                "description": "Professionnels qualifiés"
+            },
+            "results_focus": {
+                "title": "Focus sur les Résultats",
+                "description": "Des solutions qui fonctionnent"
+            },
+            "premium_quality": {
+                "title": "Qualité Premium",
+                "description": "Excellence dans chaque projet"
+            },
+            "constant_innovation": {
+                "title": "Innovation Constante",
+                "description": "Technologie de pointe"
+            }
+        }
+    },
+    "videoNotSupported": "Votre navigateur ne prend pas en charge les vidéos HTML5.",
+    "footer": {
+        "backToTop": "Retour en Haut",
+        "newsletter": {
+            "title": "Abonnez-vous à Notre Newsletter",
+            "subtitle": "Recevez nos dernières recherches et actualités",
+            "placeholder": "Votre adresse email",
+            "button": "S'abonner"
+        },
+        "addressTitle": "Nos Bureaux",
+        "socialMedia": "Suivez-nous sur les Réseaux Sociaux",
+        "tagline": "Des solutions qui connectent le monde.",
+        "canada": {
+            "title": "Biangg – Canada",
+            "address": "406‑4925 Rue des Érables\nMontréal, QC, CA, H9J 0A2",
+            "email": "global@biangg.ca",
+            "phone": "+1 (438) 779‑0598"
+        },
+        "gabon": {
+            "title": "Biangg – Gabon",
+            "address": "BP 23826\nLibreville, Gabon",
+            "email": "global@biangg.ca",
+            "phone": "+241‑7449‑8768"
+        },
+        "links": {
+            "home": "Accueil",
+            "solutions": "Solutions",
+            "resources": "Ressources",
+            "projects": "Projets",
+            "about": "À Propos",
+            "health": "Santé",
+            "nutrition": "Nutrition",
+            "education": "Éducation",
+            "public_sector": "Secteur Public",
+            "training": "Formation",
+            "research": "Recherche",
+            "media": "Médias",
+            "publications": "Publications"
+        },
+        "stayConnected": "Restez Connecté",
+        "rights": "Tous droits réservés.",
+        "privacy": "Politique de Confidentialité",
+        "terms": "Conditions d'Utilisation"
+    },
+    "sectionT": {
+        "title": "Vous avez un projet similaire ?",
+        "contact": "Contactez-nous pour discuter de votre projet de recherche ou pour collaborer sur nos initiatives en cours.",
+        "button": "Contacter Notre Équipe"
+    },
+    "aboutPage": {
+        "title": "Qui Sommes-Nous",
+        "intro": "Biangg est un cabinet de conseil spécialisé dans l'analyse de données statistiques socio-économiques, la gestion et la mise en œuvre de politiques visant le bien-être et la réduction des inégalités sociales.",
+        "services": {
+            "title": "Nos Services",
+            "description": "Nous renforçons votre prise de décision basée sur les données en fournissant des services de conseil experts. Nous nous spécialisons dans la fourniture de solutions personnalisées qui correspondent à vos besoins uniques. Notre objectif est de vous fournir les insights et les conseils nécessaires pour atteindre vos objectifs et rester en avance dans le paysage concurrentiel actuel.",
+            "items": [
+                "Analyse de données socio-économiques",
+                "Formations sur mesure",
+                "Recherche appliquée",
+                "Évaluation de programmes"
+            ]
+        },
+        "vision": {
+            "title": "Notre Vision",
+            "content": "Réduire les disparités sociales et créer un état de bien-être physique, psychologique et social pour les populations."
+        },
+        "mission": {
+            "title": "Notre Mission",
+            "content": "Améliorer votre prise de décision grâce à la recherche, l'engagement communautaire et l'éducation."
+        },
+        "values": {
+            "title": "Nos Valeurs",
+            "items": [
+                "Intégrité",
+                "Empathie",
+                "Respect",
+                "Innovation",
+                "Éducation"
+            ],
+            "description": "Avec les personnes au cœur de tout ce que nous faisons, nos valeurs guident chaque décision au service de nos clients."
+        },
+        "team": {
+            "title": "Notre Équipe",
+            "subtitle": "Rencontrez les professionnels dévoués derrière notre succès",
+            "members": [
+                {
+                    "name": "Brice W Obiang Obounou, PhD",
+                    "position": "Nutrition en Santé Publique",
+                    "location": "Ottawa, Canada"
+                },
+                {
+                    "name": "Herbert MBA Aki, PhD",
+                    "position": "Impact Social & Développement Économique",
+                    "location": "Libreville, Gabon"
+                },
+                {
+                    "name": "Raïssa DIAHOU LEHOUMBOU",
+                    "position": "Eau et Assainissement",
+                    "location": "Paris, France"
+                },
+                {
+                    "name": "Sara-Julie Avomo Ollomo",
+                    "position": "Psychologie du Travail et des Organisations",
+                    "location": "Montréal, Canada"
+                },
+                {
+                    "name": "Masra Shekina MBAIORNOM",
+                    "position": "Intelligence Artificielle & Science des Données",
+                    "location": "N'Djamena, Tchad"
+                }
+            ]
+        }
+    },
+    "notFound": {
+        "title": "Oups ! Perdu dans l'Espace",
+        "subtitle": "La page que vous recherchez n'existe pas dans cet univers.",
+        "goBack": "Retour",
+        "goHome": "Aller à l'accueil",
+        "errorCode": "Erreur 404",
+        "description": "Ne vous inquiétez pas, même les astronautes se perdent parfois. Nous allons vous remettre sur la bonne voie !"
+    },
+    "faqs": {
+        "title": "Questions Fréquemment Posées",
+        "research_participation": {
+            "question": "Comment puis-je participer à vos études de recherche actuelles ?",
+            "answer": "Vous pouvez participer en sélectionnant votre pays dans la liste de notre section 'Projets en Cours'. Si votre pays n'est pas listé, veuillez nous contacter à global@biangg.ca pour exprimer votre intérêt à participer."
+        },
+        "study_confidentiality": {
+            "question": "Ma participation aux études est-elle confidentielle ?",
+            "answer": "Oui, toutes les données des participants sont anonymisées. Nous ne collectons pas d'identifiants personnels et vos réponses restent strictement confidentielles conformément aux normes internationales d'éthique de la recherche."
+        },
+        "research_funding": {
+            "question": "Comment puis-je soutenir financièrement votre recherche ?",
+            "answer": "Nous acceptons les dons via notre plateforme sécurisée en ligne. Votre soutien nous aide à étendre notre recherche à plus de pays et communautés. Visitez notre page de dons ou contactez-nous pour plus d'informations."
+        },
+        "service_consultation": {
+            "question": "Que comprend la consultation gratuite de 45 minutes ?",
+            "answer": "Notre consultation fournit une évaluation initiale de vos besoins, que ce soit pour la recherche, l'analyse de données ou la planification stratégique. Nous discuterons des solutions potentielles et comment nos services peuvent soutenir vos objectifs."
+        },
+        "country_not_listed": {
+            "question": "Mon pays n'est pas listé dans vos études. Puis-je quand même participer ?",
+            "answer": "Absolument. Nous étendons constamment notre recherche à de nouvelles régions. Veuillez nous envoyer un email à global@biangg.ca avec les informations de votre pays, et nous vous informerons lorsque nous lancerons des études dans votre région."
+        },
+        "data_usage": {
+            "question": "Comment utilisez-vous les données de recherche collectées ?",
+            "answer": "Nos données sont utilisées pour : 1) Informer les recommandations politiques, 2) Développer des interventions communautaires, 3) Publier des recherches académiques (toujours anonymisées), et 4) Créer des campagnes de sensibilisation. Nous ne vendons ni ne partageons jamais de données personnelles."
+        },
+        "training_programs": {
+            "question": "Quels types de programmes de formation proposez-vous ?",
+            "answer": "Nous proposons : 1) Des formations sur site en méthodologie de recherche, 2) Des webinaires sur l'analyse de données, 3) Du coaching pour la mesure de l'impact social, et 4) Des formations sur mesure pour les organisations. Visitez notre section Services pour plus de détails."
+        },
+        "research_duration": {
+            "question": "Combien de temps durent généralement vos études de recherche ?",
+            "answer": "Les durées des études varient : 1) Les enquêtes prennent généralement 5-15 minutes, 2) Les études longitudinales peuvent durer 6-12 mois, 3) Les études de prévalence nationale prennent souvent 1-2 ans. Chaque page de projet spécifie sa durée."
+        }
+    },
+    "cookieConsent": {
+        "title": "Préférences en Matière de Cookies",
+        "description": "Nous utilisons des cookies pour vous garantir la meilleure expérience sur notre site. Certains sont essentiels au fonctionnement du site, tandis que d'autres nous aident à améliorer votre expérience.",
+        "showDetails": "Afficher les détails",
+        "hideDetails": "Masquer les détails",
+        "typesTitle": "Types de cookies que nous utilisons",
+        "essential": {
+            "title": "Essentiels",
+            "description": "Nécessaires au fonctionnement du site et ne peuvent pas être désactivés."
+        },
+        "analytics": {
+            "title": "Analytiques",
+            "description": "Nous aident à comprendre comment les visiteurs interagissent avec notre site."
+        },
+        "preferences": {
+            "title": "Préférences",
+            "description": "Permettent au site de se souvenir des choix que vous faites."
+        },
+        "privacyPolicyLink": "Lire notre Politique de Confidentialité complète",
+        "acceptEssential": "Accepter uniquement les essentiels",
+        "acceptAll": "Accepter tous les cookies",
+        "decline": "Refuser tous",
+        "close": "Fermer la bannière"
+    },
+    "formationPage": {
+        "hero": {
+            "titlePart": "Training",
+            "subtitle": "Développez vos compétences avec nos programmes de formation spécialisés"
+        },
+        "inPersonTraining": {
+            "titlePart": "Formation en présentiel ou webinaire",
+            "description": "Nous offrons des formations en ligne ou en présentiel. Les formations se donnent en anglais ou en français.",
+            "formats": {
+                "title": "Formats disponibles",
+                "items": [
+                    "Formation en présentiel",
+                    "Webinaires interactifs",
+                    "Cours hybrides"
+                ]
+            },
+            "languages": {
+                "title": "Langues",
+                "items": [
+                    "Français",
+                    "Anglais",
+                    "Bilingue"
+                ]
+            }
+        },
+        "conferences": {
+            "titlePart": "Conférences",
+            "description": "Nous sommes disponibles pour intervenir à des conférences sur les sujets de santé, d'éducation, ou des problèmes sociaux complexes.",
+            "topics": {
+                "publicHealth": {
+                    "title": "Santé Publique",
+                    "items": [
+                        "Systèmes de santé en Afrique",
+                        "Santé mentale",
+                        "Nutrition et sécurité alimentaire"
+                    ]
+                },
+                "education": {
+                    "title": "Éducation",
+                    "items": [
+                        "Inégalités éducatives",
+                        "Harcèlement en milieu scolaire",
+                        "Modèles d'apprentissage innovants"
+                    ]
+                }
+            }
+        },
+        "cta": {
+            "title": "Prêt à développer vos compétences ?",
+            "subtitle": "Contactez-nous pour discuter de vos besoins en formation ou pour inviter nos experts à votre prochain événement.",
+            "buttons": {
+                "contact": "Contactez-nous",
+                "programs": "Voir nos programmes"
+            }
+        }
+    },
+    "research": {
+        "steps": [
+            {
+                "title": "Conception de l'étude",
+                "description": "Nous préparons un plan rigoureux qui permettra de structurer l'étude de manière efficace et de maximiser la validité et la fiabilité des résultats basée sur comment les données seront collectées et analysées."
+            },
+            {
+                "title": "Collecte de données et résumé graphique",
+                "description": "La conception de l'étude nous permet d'accumuler un maximum d'informations spécifiques et pertinentes pour vous permettre de prendre des décisions éclairées. Nous analysons les données et vous remettons un résumé graphique."
+            },
+            {
+                "title": "Collecte de données et analyse détaillée",
+                "description": "Nous analysons les données et vous remettons un rapport graphique et écrit détaillé. Ce rapport contient aussi les recommandations faites par notre équipe."
+            },
+            {
+                "title": "Téléchargement de données",
+                "description": "Nous avons une banque de données que nous pouvons rendre disponible sous forme de fiche Excel pour votre propre usage et interprétation. Idéal pour chercheurs, étudiants, et entrepreneurs."
+            },
+            {
+                "title": "Etude du marché et analyse",
+                "description": "Enquête de terrain auprès des clients pour recueillir les avis de ces derniers afin de pouvoir proposer des solutions sur mesure pour la croissance de l'activité et une meilleure implémentation des initiatives à apporter. Minimum 300 personnes."
+            },
+            {
+                "title": "Implémentation ou mise en œuvre",
+                "description": "Nous vous accompagnons dans le processus de mise en œuvre d'une décision informée ou d'un plan ; exécution"
+            }
+        ]
+    },
+    "researchPage": {
+        "hero": {
+            "title": "Services de Recherche",
+            "subtitle": "Solutions de recherche complètes de la conception de l'étude à la mise en œuvre"
+        },
+        "steps": [
+            {
+                "title": "Conception de l'étude",
+                "description": "Nous préparons un plan rigoureux qui permet de structurer l'étude efficacement et de maximiser la validité et la fiabilité des résultats basées sur la collecte et l'analyse des données."
+            },
+            {
+                "title": "Collecte de données et résumé graphique",
+                "description": "Notre conception d'étude nous permet de recueillir des informations spécifiques et pertinentes pour des décisions éclairées. Nous analysons les données et fournissons des résumés graphiques."
+            },
+            {
+                "title": "Analyse détaillée des données",
+                "description": "Nous analysons les données et fournissons des rapports détaillés graphiques et écrits avec les recommandations de notre équipe d'experts."
+            },
+            {
+                "title": "Téléchargement de données",
+                "description": "Accédez à notre base de données au format Excel pour votre propre interprétation. Idéal pour chercheurs, étudiants et entrepreneurs."
+            },
+            {
+                "title": "Étude de marché et analyse",
+                "description": "Enquêtes sur le terrain avec un minimum de 300 participants pour recueillir les insights clients pour la croissance commerciale et la mise en œuvre d'initiatives."
+            },
+            {
+                "title": "Support de mise en œuvre",
+                "description": "Nous vous accompagnons dans le processus de mise en œuvre de décisions basées sur les données et de plans stratégiques."
+            }
+        ],
+        "cta": {
+            "title": "Prêt à démarrer votre projet de recherche?",
+            "subtitle": "Contactez-nous pour discuter de vos besoins en recherche ou demander une consultation avec nos experts.",
+            "buttons": {
+                "contact": "Contactez-nous",
+                "consultation": "Demander une consultation"
+            }
+        }
+    },
+    "clients": {
+        "badge": "Nos Clients",
+        "title": "Création de Valeur Partagée",
+        "subtitle": "Nous aidons les organisations à être rentables tout en résolvant des problèmes sociaux complexes",
+        "corporations": {
+            "title": "Entreprises",
+            "description": "Nous aidons les entreprises à aligner leur RSE sur un impact social mesurable"
+        },
+        "nonprofits": {
+            "title": "ONG",
+            "description": "Nous outillons les ONG avec des recherches pour maximiser leur impact"
+        },
+        "academia": {
+            "title": "Universités",
+            "description": "Nous collaborons avec les universités sur la recherche sociale de pointe"
+        },
+        "government": {
+            "title": "Gouvernements",
+            "description": "Nous fournissons aux gouvernements des recommandations politiques basées sur des données"
+        },
+        "conclusion": "Notre approche de valeur partagée crée des solutions gagnant-gagnant pour les entreprises et la société"
+    },
+    "auth": {
+        "signInTitle": "Bienvenue sur Biangg Research",
+        "signInSubtitle": "Entrez vos identifiants pour accéder à votre tableau de bord",
+        "emailLabel": "Email",
+        "emailPlaceholder": "chercheur@exemple.com",
+        "emailRequired": "L'email est requis",
+        "invalidEmail": "Veuillez entrer une adresse email valide",
+        "passwordLabel": "Mot de passe",
+        "passwordPlaceholder": "Entrez votre mot de passe",
+        "passwordRequired": "Le mot de passe est requis",
+        "forgotPassword": "Mot de passe oublié ?",
+        "signInButton": "Se connecter",
+        "signingIn": "Connexion en cours...",
+        "orContinueWith": "Ou continuer avec",
+        "signInWithGoogle": "Continuer avec Google",
+        "noAccount": "Pas de compte ?",
+        "signUpLink": "S'inscrire",
+        "googleLoginSuccess": "Authentification Google réussie",
+        "googleLoginFailed": "Échec de la connexion Google. Veuillez réessayer.",
+        "googleLoginError": "Erreur lors de l'authentification Google",
+        "signUpTitle": "Créer un compte",
+        "signUpSubtitle": "Entrez vos informations pour créer un nouveau compte",
+        "signUpButton": "S'inscrire",
+        "creatingAccount": "Création du compte en cours...",
+        "signUpSuccess": "Compte créé avec succès !",
+        "nameLabel": "Nom complet",
+        "namePlaceholder": "Votre nom complet",
+        "nameRequired": "Le nom est requis",
+        "confirmPasswordLabel": "Confirmer le mot de passe",
+        "confirmPasswordPlaceholder": "Confirmez votre mot de passe",
+        "confirmPasswordRequired": "Veuillez confirmer votre mot de passe",
+        "passwordsMustMatch": "Les mots de passe doivent correspondre",
+        "alreadyHaveAccount": "Vous avez déjà un compte ?",
+        "signInLink": "Se Connecter",
+        "sendResetLink": "Envoyer le lien de réinitialisation",
+        "backToSignIn": "Retour à la connexion",
+        "resetEmailSent": "Email de réinitialisation envoyé",
+        "sending": "Envoi de l'email de réinitialisation...",
+        "resetRequestFailed": "Échec de la demande de réinitialisation",
+        "forgotPasswordTitle": "Mot de passe oublié ?"
+    },
+    "weightLossPage": {
+        "hero": {
+            "title": "Programme de perte de poids de 12 semaines",
+            "subtitle": "Un programme complet conçu pour vous aider à adopter de bonnes habitudes alimentaires et améliorer votre bien-être physique, social et mental"
+        },
+        "programOverview": {
+            "title": "Aperçu du programme",
+            "description": "Ce programme de 12 semaines vous donne des outils essentiels pour votre perte de poids à travers 5 modules vidéo en anglais. Chaque module contient entre 2 et 5 cours allant de 8 à 22 minutes chacun. Vous apprendrez des compétences pratiques comme lire les étiquettes nutritionnelles et déterminer les besoins en eau de votre corps. Vous pouvez commander les 5 modules pour une meilleure optimisation du programme ou juste ceux qui vous intéressent.",
+            "tools": "Le programme comprend des instruments de mesure tels que la balance, le calculateur d'IMC, une corde à sauter, le tensiomètre et une corde à sauter électronique. Ces outils disponibles dans notre boutique santé vous permettront de suivre vos progrès."
+        },
+        "modules": {
+            "title": "Modules du programme",
+            "list": [
+                {
+                    "title": "Module 1 : Pour commencer",
+                    "lessons": [
+                        "Unité 1.3 : Choix des aliments",
+                        "Unité 1-4 : Risque pour la santé associé au poids corporel et à la graisse corporelle"
+                    ]
+                },
+                {
+                    "title": "Module 2 : Alimentation et santé",
+                    "lessons": [
+                        "Unité 2-1 : Nutriments et calories",
+                        "Unité 2-2 : Groupes alimentaires",
+                        "Unité 2-3 : Évaluation nutritionnelle",
+                        "Unité 2-4 : Hypertension et maladies cardiovasculaires",
+                        "Unité 2-5 : Diabète et syndrome métabolique"
+                    ]
+                },
+                {
+                    "title": "Module 3 : Étiquette de la valeur nutritive",
+                    "lessons": [
+                        "Unité 3-1 : Comprendre la taille des portions",
+                        "Unité 3-2 : Comprendre l'étiquette de la valeur nutritive",
+                        "Unité 3-3 : Indice de référence alimentaire par rapport à la valeur quotidienne",
+                        "Unité 3-4 : Épicerie"
+                    ]
+                },
+                {
+                    "title": "Module 4 : Planification de l'alimentation",
+                    "lessons": [
+                        "Unité 4-1 : Six principes de planification alimentaire",
+                        "Unité 4-2 : Étude de cas : régime méditerranéen vs régime végétalien faible en gras",
+                        "Unité 4-3 : Jeûne intermittent",
+                        "Unité 4-4 : Plan de perte de poids"
+                    ]
+                },
+                {
+                    "title": "Module 5 : Bilan énergétique",
+                    "lessons": [
+                        "Unité 5-1 : Prise d'eau",
+                        "Unité 5-2 : Dépenses énergétiques",
+                        "Unité 5-3 : Besoins énergétiques"
+                    ]
+                }
+            ]
+        },
+        "sampleLesson": {
+            "title": "Exemple de cours",
+            "description": "Unité 4-1 : Six principes de planification alimentaire"
+        },
+        "testimonial": {
+            "title": "Témoignage",
+            "description": "Le témoignage de Gloria qui a suivi le programme de perte de poids de Biangg"
+        },
+        "cta": {
+            "title": "Commencez votre parcours de perte de poids aujourd'hui",
+            "subtitle": "Rejoignez notre programme de 12 semaines et transformez votre santé et bien-être",
+            "buttons": {
+                "register": "S'inscrire maintenant",
+                "learnMore": "En savoir plus"
+            }
+        }
+    },
+    "howWeWorkPage": {
+        "hero": {
+            "title": "Comment Nous Travaillons",
+            "subtitle": "Des valeurs partagées qui guident notre approche collaborative"
+        },
+        "intro": {
+            "title": "Notre Approche Collaborative",
+            "content": "Autour des valeurs partagées, nous améliorons votre compétitivité tout en faisant progresser simultanément les conditions économiques et sociales des communautés dans lesquelles vous opérez par l'engagement communautaire, la recherche, et la dissémination des connaissances."
+        },
+        "process": {
+            "title": "Notre Processus",
+            "steps": [
+                {
+                    "title": "Situation",
+                    "description": "Vous avez un problème, un projet, des objectifs, et résultats que vous souhaitez atteindre"
+                },
+                {
+                    "title": "Approche",
+                    "description": "Conception de l'étude et analyse des données"
+                },
+                {
+                    "title": "Stratégies",
+                    "description": "Développement de la stratégie en co-production"
+                }
+            ],
+            "conclusion": "Pour répondre à vos besoins, nous prenons une posture d'accompagnement en personnalisant notre approche selon votre situation et travaillons avec vous en co-production à chaque partie du projet de recherche et de développement de la stratégie."
+        },
+        "cta": {
+            "title": "Prêt à collaborer avec nous ?",
+            "subtitle": "Contactez-nous pour discuter de la manière dont nous pouvons travailler ensemble sur votre prochain projet",
+            "buttons": {
+                "contact": "Contactez-nous",
+                "learnMore": "Découvrez nos projets"
+            }
+        }
+    },
+    "researchData": {
+        "badge": "Données Ouvertes",
+        "title": "Centre de Données de Recherche",
+        "description": "Accédez à des ensembles de données anonymisées de nos études pour soutenir vos propres recherches et analyses.",
+        "stats": {
+            "datasets": "Ensembles de données",
+            "countries": "Pays",
+            "downloads": "Téléchargements",
+            "anon": "Anonymisées"
+        },
+        "search": {
+            "placeholder": "Rechercher des ensembles de données..."
+        },
+        "filter": {
+            "topic": "Filtrer par thème",
+            "format": "Filtrer par format",
+            "all": "Tous les formats"
+        },
+        "topics": {
+            "education": "Éducation",
+            "health": "Santé",
+            "economics": "Économie",
+            "gender": "Genre"
+        },
+        "size": "Taille",
+        "downloads": "Téléchargements",
+        "date": "Publié",
+        "download": "Télécharger les données",
+        "cta": {
+            "title": "Vous avez des données de recherche à partager ?",
+            "description": "Contribuez à la science ouverte en partageant vos ensembles de données anonymisées avec la communauté de recherche.",
+            "primary": "Soumettre des données",
+            "secondary": "Apprendre à anonymiser"
+        }
+    },
+    "booking": {
+        "title": "Réservation",
+        "description": "Réservez une session avec nos experts",
+        "form": {
+            "name": "Votre nom",
+            "email": "Votre email",
+            "date": "Date préférée",
+            "time": "Heure préférée",
+            "submit": "Réserver maintenant",
+            "cancel": "Annuler",
+            "confirm": "Confirmer"
+        }
+    }
+}

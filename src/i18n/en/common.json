@@ -1,0 +1,894 @@
+{
+    "header": {
+        "home": "Home",
+        "solutions": "Solutions",
+        "health": "Health",
+        "dashboard": "Dashboard",
+        "logout": "Logout",
+        "nutrition": "Nutrition",
+        "education": "Education",
+        "public_sector": "Public Sector",
+        "resources": "Resources",
+        "training": "Training",
+        "research_service": "Research Service",
+        "weight_loss": "Weight Loss",
+        "media": "Media",
+        "publications": "Our Publications",
+        "how_we_work": "How We Work",
+        "projects": "Data Center",
+        "about": "About Us",
+        "login": "Login",
+        "register": "Register",
+        "learn_more": "Learn More",
+        "contact_us": "Contact Us",
+        "health_page": {
+            "cta_title": "Join Our Health Research Initiative",
+            "cta_content": "Contribute to groundbreaking research that transforms healthcare systems across Africa.",
+            "cta_primary": "Partner With Us",
+            "impact_title": "Global Health Challenges",
+            "cta_secondary": "Learn About Funding",
+            "title": "Health",
+            "collaboration_label": "Health",
+            "impact": {
+                "studies": "Studies",
+                "countries": "Countries",
+                "people": "People"
+            },
+            "intro": "Health is a human right that requires a complete state of physical, mental, and social well-being, and not merely the absence of disease or infirmity.",
+            "collaboration": "We collaborate with governments, international organizations, and health sector leaders to make healthcare more accessible.",
+            "our_studies": "Our Studies",
+            "gabon_health_system": {
+                "title": "Gabonese health system: a 20-year analysis",
+                "content": "In response to the high prevalence of HIV/AIDS and malaria, the Gabonese government launched the National Social Insurance and Social Protection Fund in 2008. This is a national health insurance voted by Parliament to extend health coverage to different socio-economic groups in the country, bringing everyone under one social health insurance umbrella. However, out-of-pocket expenditures (21.87%) as a percentage of total health expenditures remain higher than other sub-Saharan African countries classified as upper-middle-income countries.",
+                "read_more": "Read more",
+                "analyze_data": "Analyzing the data",
+                "stats": {
+                    "out_of_pocket": "Out-of-pocket expenses",
+                    "year_established": "Year established"
+                }
+            },
+            "sexual_harassment": {
+                "title": "School Harassment Study 2023",
+                "content": "The Biangg research firm has already collected nearly 3000 data points on sexual harassment and mental health in schools across Africa. Only 2.85% of victims reported it and only 18.11% of institutions have a policy against sexual harassment. Our studies in Gabon, Rwanda, and Chad show a high prevalence with over 21% of students thinking it would be better to die or considering harming themselves in some way. Our goal is to support policymakers with evidence-based data to help them create an enriching environment for students.",
+                "support": "You can support the continuation of this study by donating here",
+                "read_more": "Read more",
+                "students": "Students",
+                "stats": {
+                    "reported": "Cases reported",
+                    "policies": "Schools with policies",
+                    "depression": "Depression rate"
+                }
+            },
+            "socioeconomic_status": {
+                "title": "Socioeconomic Status & Perinatal Depression",
+                "content": "Socioeconomic status measures a person's or family's social position based on income, education, and occupation. Inequalities in socioeconomic status are increasing. Our preliminary results show a link between perinatal depression (70%), physical violence against women during pregnancy (8%), suicidal thoughts (13%), cigarette use during pregnancy (28%), and mortality rates.",
+                "support": "You can support the continuation of this study by donating here",
+                "read_more": "Read more",
+                "stats": {
+                    "depression": "Perinatal depression",
+                    "violence": "Physical violence",
+                    "smoking": "Smoking during pregnancy"
+                }
+            }
+        },
+        "nutrition_page": {
+            "title": "Public Health Nutrition",
+            "intro": "Nutrition & Food Security",
+            "hero_image_alt": "Healthy food and nutrition",
+            "food_security_label": "Food Security",
+            "food_security_title": "Ensuring Access to Nutritious Food",
+            "food_security_description": "To guarantee food security, you need permanent access to adequate quantities of nutritious and healthy food, allowing you to lead a healthy and active life.",
+            "our_studies": "Our Studies",
+            "impact_title": "Global Nutrition Challenges",
+            "impact": {
+                "global_hunger": "People facing hunger globally",
+                "africa_hunger": "People facing hunger in Africa",
+                "data_collected": "Nutrition data points collected"
+            },
+            "cta_title": "Join Our Nutrition Initiative",
+            "cta_content": "With 1 in 11 people worldwide facing hunger in 2023, and 1 in 5 in Africa (WHO), Biangg offers research tools and policies to reduce food insecurity. We've also designed a weight loss program to prevent cardiovascular diseases.",
+            "cta_primary": "Learn About Our Programs",
+            "cta_secondary": "Support Our Research",
+            "women_migrants": {
+                "title": "Overview of migrant women's health in South Korea: policy recommendations",
+                "content": "In response to the high prevalence of HIV/AIDS and malaria, the Gabonese government launched the National Social Insurance and Social Protection Fund in 2008. This is a national health insurance voted by Parliament to extend health coverage to different socio-economic groups in the country, bringing everyone under one social health insurance umbrella. However, out-of-pocket expenditures (21.87%) as a percentage of total health expenditures remain higher than other sub-Saharan African countries classified as upper-middle-income countries.",
+                "read_more": "Read the study",
+                "analyze_data": "Analyze the data",
+                "stats": {
+                    "year_established": "Year established",
+                    "health_expenditures": "Out-of-pocket health expenses"
+                }
+            },
+            "foreign_students": {
+                "title": "Dietary Acculturation of Foreign Students in Daegu",
+                "content": "The Biangg research firm has already collected nearly 3000 data points on sexual harassment and mental health in schools across Africa. Only 2.85% of victims reported it and only 18.11% of institutions have a policy against sexual harassment. Our studies in Gabon, Rwanda, and Chad show a high prevalence with over 21% of students thinking it would be better to die or considering harming themselves in some way. Our goal is to support policymakers with evidence-based data to help them create an enriching environment for students.",
+                "read_more": "Read the study",
+                "support": "You can support the continuation of this study by donating here",
+                "stats": {
+                    "data_points": "Data points collected",
+                    "cases_reported": "Cases reported",
+                    "mental_health": "Mental health issues"
+                }
+            },
+            "dental_health": {
+                "title": "Presence of dental caries is associated with mothers' education level among Korean children and adolescents",
+                "content": "Dental caries remains one of the most common chronic diseases affecting children worldwide with multifactorial etiology. The study evaluated the association between socioeconomic status (SES), dietary intake, food insecurity (FI), and dental caries in Korean children and adolescents. The study used data from the Korean National Health and Nutrition Examination Survey (KNHANES), conducted over 2 years with 1,559 boys and 1,391 Korean girls aged 2 to 18 years from 2012 to 2013. Fathers' education level (P = 0.017), mothers' education level (P < 0.001), and household income (P = 0.049) were all significantly associated with dental caries in Korean boys.",
+                "read_more": "Read the study",
+                "stats": {
+                    "boys": "Boys studied",
+                    "girls": "Girls studied",
+                    "study_years": "Study period"
+                }
+            }
+        },
+        "education_page": {
+            "title": "Education",
+            "intro": "Education can change a person's socioeconomic status and that of their family while contributing to their physical, mental and social well-being.",
+            "description": "Our research aims to improve learning models and academic content while reducing educational inequalities.",
+            "hero_image_alt": "Education can transform lives",
+            "our_studies": "Our Studies",
+            "impact_title": "Our Impact in Education",
+            "impact": {
+                "data_points": "Data points collected",
+                "countries": "Countries studied",
+                "children": "Children in studies"
+            },
+            "cta_title": "Have an education project?",
+            "cta_content": "Contact us to discuss your research needs in education and learning models.",
+            "cta_primary": "Schedule a consultation",
+            "cta_secondary": "Contact our team",
+            "view_study": "View full study",
+            "dental_study": {
+                "title": "Presence of dental caries is associated with mothers' education level among Korean children and adolescents",
+                "content": "Dental caries remains one of the most common chronic diseases affecting children worldwide with multifactorial etiology. The study evaluated the association between socioeconomic status (SES), dietary intake, food insecurity (FI), and dental caries in Korean children and adolescents. The study used data from the Korean National Health and Nutrition Examination Survey (KNHANES), conducted over 2 years with 1,559 boys and 1,391 Korean girls aged 2 to 18 years from 2012 to 2013.",
+                "image_alt": "Mother and son dental health study",
+                "stats": {
+                    "boys": "Boys studied",
+                    "girls": "Girls studied",
+                    "years": "Years of study"
+                }
+            },
+            "harassment_study": {
+                "title": "School Harassment Study 2023 in schools",
+                "content": "The Biangg research firm has already collected nearly 3000 data points on sexual harassment and mental health in schools across Africa. Only 2.85% of victims reported it and only 18.11% of institutions have a policy against sexual harassment. Our studies in Gabon, Rwanda, and Chad show a high prevalence with over 21% of students thinking it would be better to die or considering harming themselves in some way.",
+                "image_alt": "Students in African schools",
+                "support": "You can support the continuation of this study by donating here",
+                "stats": {
+                    "reported": "Cases reported",
+                    "policies": "Schools with policies",
+                    "depression": "Depression rate"
+                }
+            },
+            "violence_study": {
+                "title": "Women's education level is associated with domestic violence",
+                "content": "Socioeconomic status measures a person's or family's social position based on income, education, and occupation. Our preliminary results show that women victims of domestic violence during pregnancy (8%) did not have a university education and did not have paying jobs.",
+                "image_alt": "Women's education and domestic violence",
+                "support": "You can support the continuation of this study by donating here",
+                "stats": {
+                    "violence": "Violence during pregnancy",
+                    "university": "With university education",
+                    "unemployed": "Without paid employment"
+                }
+            }
+        },
+        "public_page": {
+            "title": "Public Sector",
+            "intro": "Community engagement facilitates the resolution of societal problems and creates mutually beneficial relationships.",
+            "description": "Biangg assists you in solving complex social problems through community engagement, research and training.",
+            "our_studies": "Our Studies",
+            "impact_title": "Our Impact in the Public Sector",
+            "impact": {
+                "studies": "Published Studies",
+                "participants": "Study Participants",
+                "variables": "Social Variables Analyzed"
+            },
+            "cta_title": "Do you have a public sector project?",
+            "cta_content": "Contact us to discuss your research and community engagement needs.",
+            "cta_primary": "Schedule a Meeting",
+            "cta_secondary": "Send a Message",
+            "order_report": "Order the Report",
+            "view_study": "View Full Study",
+            "voting_study": {
+                "title": "To vote or not to vote: how to increase citizen participation",
+                "content": "In this study, we examined the reasons for or against citizen participation in voting. We identified 6 variables of interest associated with citizen participation in voting: civic duty, uncertainty of results, voting habit, age, political interest and resource availability.",
+                "image_alt": "Voting study",
+                "stats": {
+                    "variables": "Variables studied",
+                    "country": "Gabon",
+                    "country_label": "Study country"
+                }
+            },
+            "alcohol_study": {
+                "title": "Alcoholism, addiction and risky behavior",
+                "content": "Alcoholism kills approximately 3 million people per year, or 5.3% globally. This study conducted in Libreville with 554 participants shows that the age category of 40 years and older is at risk of developing alcohol dependence, that alcohol consumption is linked to socioeconomic status, and that men are twice as likely to develop dependence.",
+                "image_alt": "Alcoholism study",
+                "stats": {
+                    "participants": "Participants",
+                    "accidents": "Alcohol-related accidents",
+                    "risk": "Male vs female risk"
+                }
+            },
+            "teachers_study": {
+                "title": "Length of residence is associated with cardiovascular disease risk factors among foreign English teachers in Korea",
+                "content": "This study examined the association between acculturation and CVD risk factors among English teachers from Europe and the United States living in Korea. Results show that length of residence in Korea was associated with hypertension, BMI and physical inactivity, with less favorable risk profiles among those living in Korea for more than five years.",
+                "image_alt": "English teachers health study",
+                "stats": {
+                    "men": "Men with risks",
+                    "women": "Women with risks",
+                    "threshold": "Increased risk threshold"
+                }
+            }
+        }
+    },
+    "formationPage": {
+        "hero": {
+            "titlePart": "Formation",
+            "subtitle": "Develop your skills with our specialized training programs"
+        },
+        "inPersonTraining": {
+            "titlePart": "In-person or webinar training",
+            "description": "We offer online or in-person training. Training is provided in English or French.",
+            "formats": {
+                "title": "Available formats",
+                "items": [
+                    "In-person training",
+                    "Interactive webinars",
+                    "Hybrid courses"
+                ]
+            },
+            "languages": {
+                "title": "Languages",
+                "items": [
+                    "French",
+                    "English",
+                    "Bilingual"
+                ]
+            }
+        },
+        "conferences": {
+            "titlePart": "Conferences",
+            "description": "We are available to speak at conferences on topics of health, education, or complex social issues.",
+            "topics": {
+                "publicHealth": {
+                    "title": "Public Health",
+                    "items": [
+                        "Health systems in Africa",
+                        "Mental health",
+                        "Nutrition and food security"
+                    ]
+                },
+                "education": {
+                    "title": "Education",
+                    "items": [
+                        "Educational inequalities",
+                        "School bullying",
+                        "Innovative learning models"
+                    ]
+                }
+            }
+        },
+        "cta": {
+            "title": "Ready to develop your skills?",
+            "subtitle": "Contact us to discuss your training needs or to invite our experts to your next event.",
+            "buttons": {
+                "contact": "Contact Us",
+                "programs": "View Our Programs"
+            }
+        }
+    },
+    "research": {
+        "steps": [
+            {
+                "title": "Study Design",
+                "description": "We prepare a rigorous plan to structure the study effectively and maximize the validity and reliability of results based on how data will be collected and analyzed."
+            },
+            {
+                "title": "Data Collection and Graphical Summary",
+                "description": "The study design allows us to accumulate maximum specific and relevant information to enable you to make informed decisions. We analyze the data and provide you with a graphical summary."
+            },
+            {
+                "title": "Data Collection and Detailed Analysis",
+                "description": "We analyze the data and provide you with a detailed graphical and written report. This report also contains recommendations from our team."
+            },
+            {
+                "title": "Data Download",
+                "description": "We have a database that we can make available in Excel format for your own use and interpretation. Ideal for researchers, students, and entrepreneurs."
+            },
+            {
+                "title": "Market Research and Analysis",
+                "description": "Field survey of customers to gather their opinions in order to propose customized solutions for business growth and better implementation of initiatives to be undertaken. Minimum 300 people."
+            },
+            {
+                "title": "Implementation",
+                "description": "We accompany you in the process of implementing an informed decision or plan; execution"
+            }
+        ]
+    },
+    "hero": {
+        "badge": "Innovative Solutions",
+        "title": "Turning Research into Action",
+        "description": "From our research projects, we develop in-depth analyses, formulate concrete recommendations, and provide targeted training for managers to improve access to education, healthcare, and social services.",
+        "primary_button": "Our Projects",
+        "title_highlight": "Biangg...",
+        "scroll_hint": "Scroll Down",
+        "secondary_button": "Learn More",
+        "stats": {
+            "projects": "Completed Projects",
+            "success": "Success Rate",
+            "years": "Years of Experience"
+        },
+        "image_alt": "Team working on a research project"
+    },
+    "projects": {
+        "title": "Our Ongoing Projects",
+        "participation_note": "If you are in high school or university and wish to participate in our study, click on the country where you are located. If the country is not listed, send us a message at global@biangg.ca",
+        "harcelement": {
+            "title": "School Harassment Study 2023 in African Schools",
+            "description": "We are currently conducting the largest study ever on the prevalence of sexual harassment in schools in certain African countries.",
+            "countries": [
+                "Congo (DRC-Bukavu)",
+                "Congo (DRC-Kinshasa)",
+                "Gabon",
+                "Rwanda",
+                "Chad",
+                "Ivory Coast",
+                "Burundi"
+            ],
+            "action_text": "Participate in the study by selecting the country where you reside",
+            "support_text": "Thank you for supporting us financially"
+        },
+        "depression": {
+            "title": "Socio-Economic Status & Perinatal Depression",
+            "description": "We need your help to propose solutions that will contribute to the well-being of pregnant women and those suffering from postpartum depression in Africa. Our preliminary data already shows the relationship between women's social status, healthcare service utilization, and voluntary homicide due to perinatal depression.",
+            "action_text": "Participate in the study"
+        },
+        "alcool": {
+            "title": "Alcohol Consumption and Injury Risks",
+            "description": "We request about two minutes of your time for this global study on alcohol consumption and physical, material, health, and psychological harm to better educate populations and governments on this social issue. Your participation is anonymous. No personal information will be recorded.",
+            "action_text": "To participate in this study, click here"
+        }
+    },
+    "services": {
+        "title": "Our Services",
+        "conseil": {
+            "category": "Consulting",
+            "items": [
+                "Management Consulting",
+                "Evaluation",
+                "Strategic Planning",
+                "Project Management"
+            ]
+        },
+        "formation": {
+            "category": "Training",
+            "items": [
+                "On-site Training",
+                "Webinars",
+                "Coaching"
+            ]
+        },
+        "recherche": {
+            "category": "Research",
+            "items": [
+                "Quantitative Research",
+                "Qualitative Research",
+                "Surveys (Questionnaires)",
+                "Mixed Methods",
+                "Focus Groups"
+            ]
+        },
+        "analyse": {
+            "category": "Data Analysis",
+            "items": [
+                "Data Management",
+                "Descriptive Analysis",
+                "Predictive Analysis",
+                "Reports and Visualization",
+                "Geostatistics"
+            ]
+        }
+    },
+    "values": {
+        "title": "Our Shared Values",
+        "description1": "At Biangg, shared values enable us to provide solutions to complex social problems through community engagement, research, and training.",
+        "description2": "Creating shared value addresses societal needs and challenges with a business model. It goes beyond philanthropy or corporate social responsibility. This business approach contributes to the well-being of our shareholders, society, and the planet.",
+        "consultation_text": "Free Consultation (45 min)",
+        "reserve_button": "Book Now"
+    },
+    "theme": {
+        "light": "Light Mode",
+        "dark": "Dark Mode"
+    },
+    "about": {
+        "title": "About Us",
+        "subtitle": "Our Commitment to Excellence",
+        "description1": "Biangg is a research firm that helps governments and institutions thrive in a dynamic market by providing solutions to complex social problems through community engagement, research, and training.",
+        "description2": "Our interdisciplinary approach combines expertise in public health, social sciences, and data analysis to create measurable impacts.",
+        "stats": {
+            "years": "Years of Experience",
+            "projects": "Completed Projects",
+            "countries": "Countries of Operation"
+        },
+        "cta": "Meet Our Team →",
+        "team_button": "Meet the Team",
+        "video": {
+            "title": "Our Story in Motion",
+            "description": "Get to know our journey and values"
+        },
+        "features": {
+            "experienced_team": {
+                "title": "Experienced Team",
+                "description": "Qualified professionals"
+            },
+            "results_focus": {
+                "title": "Focus on Results",
+                "description": "Solutions that work"
+            },
+            "premium_quality": {
+                "title": "Premium Quality",
+                "description": "Excellence in every project"
+            },
+            "constant_innovation": {
+                "title": "Constant Innovation",
+                "description": "Cutting-edge technology"
+            }
+        }
+    },
+    "videoNotSupported": "Your browser does not support HTML5 video.",
+    "footer": {
+        "backToTop": "Back to Top",
+        "newsletter": {
+            "title": "Subscribe to Our Newsletter",
+            "subtitle": "Receive our latest research and news",
+            "placeholder": "Your email address",
+            "submitting": "Sending...",
+            "success": "Successfully subscribed!",
+            "error": "Error subscribing. Please try again.",
+            "button": "Subscribe"
+        },
+        "addressTitle": "Our Offices",
+        "socialMedia": "Follow Us on Social Media",
+        "tagline": "Solutions that connect the world.",
+        "canada": {
+            "title": "Biangg – Canada",
+            "address": "406‑4925 Rue des Érables\nMontréal, QC, CA, H9J 0A2",
+            "email": "global@biangg.ca",
+            "phone": "+1 (438) 779‑0598"
+        },
+        "gabon": {
+            "title": "Biangg – Gabon",
+            "address": "BP 23826\nLibreville, Gabon",
+            "email": "global@biangg.ca",
+            "phone": "+241‑7449‑8768"
+        },
+        "links": {
+            "home": "Home",
+            "solutions": "Solutions",
+            "resources": "Resources",
+            "projects": "Projects",
+            "about": "About",
+            "health": "Health",
+            "nutrition": "Nutrition",
+            "education": "Education",
+            "public_sector": "Public Sector",
+            "training": "Training",
+            "research": "Research",
+            "media": "Media",
+            "publications": "Publications"
+        },
+        "stayConnected": "Stay Connected",
+        "rights": "All rights reserved.",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Use"
+    },
+    "sectionT": {
+        "title": "Do you have a similar project?",
+        "contact": "Contact us to discuss your research project or to collaborate on our ongoing initiatives.",
+        "button": "Contact Our Team"
+    },
+    "aboutPage": {
+        "title": "Who We Are",
+        "intro": "Biangg is a consulting firm specializing in the analysis of socio-economic statistical data, management, and the implementation of policies aimed at well-being and reducing social inequalities.",
+        "services": {
+            "title": "Our Services",
+            "description": "We strengthen your data-driven decision-making by providing expert consulting services. We specialize in delivering customized solutions that match your unique needs. Our goal is to provide you with the insights and advice necessary to achieve your objectives and stay ahead in today's competitive landscape.",
+            "items": [
+                "Socio-economic data analysis",
+                "Customized training",
+                "Applied research",
+                "Program evaluation"
+            ]
+        },
+        "vision": {
+            "title": "Our Vision",
+            "content": "To reduce social disparities and create a state of physical, psychological, and social well-being for populations."
+        },
+        "mission": {
+            "title": "Our Mission",
+            "content": "To improve your decision-making through research, community engagement, and education."
+        },
+        "values": {
+            "title": "Our Values",
+            "items": [
+                "Integrity",
+                "Empathy",
+                "Respect",
+                "Innovation",
+                "Education"
+            ],
+            "description": "With people at the heart of everything we do, our values guide every decision in service to our clients."
+        },
+        "team": {
+            "title": "Our Team",
+            "subtitle": "Meet the dedicated professionals behind our success",
+            "members": [
+                {
+                    "name": "Brice W Obiang Obounou, PhD",
+                    "position": "Public Health Nutrition",
+                    "location": "Ottawa, Canada"
+                },
+                {
+                    "name": "Herbert MBA Aki, PhD",
+                    "position": "Social Impact & Economic Development",
+                    "location": "Libreville, Gabon"
+                },
+                {
+                    "name": "Raïssa DIAHOU LEHOUMBOU",
+                    "position": "Water and Sanitation",
+                    "location": "Paris, France"
+                },
+                {
+                    "name": "Sara-Julie Avomo Ollomo",
+                    "position": "Work & Organizational Psychology",
+                    "location": "Montréal, Canada"
+                },
+                {
+                    "name": "Masra Shekina MBAIORNOM",
+                    "position": "Artificial Intelligence & Data Science",
+                    "location": "N'Djamena, Chad"
+                }
+            ]
+        }
+    },
+    "notFound": {
+        "title": "Oops! Lost in Space",
+        "subtitle": "The page you're looking for doesn't exist in this universe.",
+        "goBack": "Go back",
+        "goHome": "Go to home",
+        "errorCode": "Error 404",
+        "description": "Don't worry, even astronauts get lost sometimes. Let's get you back on track!"
+    },
+    "faqs": {
+        "title": "Frequently Asked Questions",
+        "research_participation": {
+            "question": "How can I participate in your current research studies?",
+            "answer": "You can participate by selecting your country from the list in our 'Current Projects' section. If your country isn't listed, please contact us at global@biangg.ca to express your interest in participating."
+        },
+        "study_confidentiality": {
+            "question": "Is my participation in the studies confidential?",
+            "answer": "Yes, all participant data is anonymized. We don't collect personal identifiers, and your responses remain strictly confidential according to international research ethics standards."
+        },
+        "research_funding": {
+            "question": "How can I support your research financially?",
+            "answer": "We welcome donations through our secure online platform. Your support helps us expand our research to more countries and communities. Visit our donation page or contact us for more information."
+        },
+        "service_consultation": {
+            "question": "What does the free 45-minute consultation include?",
+            "answer": "Our consultation provides an initial assessment of your needs, whether for research, data analysis, or strategic planning. We'll discuss potential solutions and how our services can support your objectives."
+        },
+        "country_not_listed": {
+            "question": "My country isn't listed in your studies. Can I still participate?",
+            "answer": "Absolutely. We're constantly expanding our research to new regions. Please email us at global@biangg.ca with your country information, and we'll notify you when we launch studies in your area."
+        },
+        "data_usage": {
+            "question": "How do you use the research data collected?",
+            "answer": "Our data is used to: 1) Inform policy recommendations, 2) Develop community interventions, 3) Publish academic research (always anonymized), and 4) Create awareness campaigns. We never sell or share personal data."
+        },
+        "training_programs": {
+            "question": "What types of training programs do you offer?",
+            "answer": "We provide: 1) On-site research methodology training, 2) Webinars on data analysis, 3) Coaching for social impact measurement, and 4) Customized training for organizations. Visit our Services section for details."
+        },
+        "research_duration": {
+            "question": "How long do your research studies typically last?",
+            "answer": "Study durations vary: 1) Surveys typically take 5-15 minutes, 2) Longitudinal studies may run for 6-12 months, 3) National prevalence studies often take 1-2 years. Each project page specifies its timeline."
+        }
+    },
+    "cookieConsent": {
+        "title": "Cookie Preferences",
+        "description": "We use cookies to ensure you get the best experience on our website. Some are essential for the site to work, while others help us improve your experience.",
+        "showDetails": "Show details",
+        "hideDetails": "Hide details",
+        "typesTitle": "Types of cookies we use",
+        "essential": {
+            "title": "Essential",
+            "description": "Necessary for the website to function and cannot be switched off."
+        },
+        "analytics": {
+            "title": "Analytics",
+            "description": "Help us understand how visitors interact with our website."
+        },
+        "preferences": {
+            "title": "Preferences",
+            "description": "Allow the website to remember choices you make."
+        },
+        "privacyPolicyLink": "Read our full Privacy Policy",
+        "acceptEssential": "Accept essential only",
+        "acceptAll": "Accept all cookies",
+        "decline": "Decline all",
+        "close": "Close banner"
+    },
+    "researchPage": {
+        "hero": {
+            "title": "Research Services",
+            "subtitle": "Comprehensive research solutions from study design to implementation"
+        },
+        "steps": [
+            {
+                "title": "Study Design",
+                "description": "We prepare a rigorous plan to structure the study effectively and maximize the validity and reliability of results based on how data will be collected and analyzed."
+            },
+            {
+                "title": "Data Collection & Graphical Summary",
+                "description": "Our study design allows us to gather specific, relevant information to enable informed decisions. We analyze data and provide graphical summaries."
+            },
+            {
+                "title": "Detailed Data Analysis",
+                "description": "We analyze data and provide detailed graphical and written reports with recommendations from our expert team."
+            },
+            {
+                "title": "Data Download",
+                "description": "Access our database in Excel format for your own interpretation. Ideal for researchers, students, and entrepreneurs."
+            },
+            {
+                "title": "Market Research & Analysis",
+                "description": "Field surveys with minimum 300 participants to gather customer insights for business growth and initiative implementation."
+            },
+            {
+                "title": "Implementation Support",
+                "description": "We accompany you through the process of implementing data-driven decisions and strategic plans."
+            }
+        ],
+        "cta": {
+            "title": "Ready to start your research project?",
+            "subtitle": "Contact us to discuss your research needs or request a consultation with our experts.",
+            "buttons": {
+                "contact": "Contact Us",
+                "consultation": "Request Consultation"
+            }
+        }
+    },
+    "clients": {
+        "badge": "Our Clients",
+        "title": "Creating Shared Value Together",
+        "subtitle": "We help organizations be profitable while solving complex social issues",
+        "corporations": {
+            "title": "Corporations",
+            "description": "We help corporations align CSR with measurable social impact"
+        },
+        "government": {
+            "title": "Government",
+            "description": "We support governments in policy development and program evaluation"
+        },
+        "nonprofits": {
+            "title": "Nonprofits",
+            "description": "We empower NGOs with research to maximize their impact"
+        },
+        "academia": {
+            "title": "Academia",
+            "description": "We collaborate with universities on cutting-edge social research"
+        },
+        "conclusion": "Our shared value approach creates win-win solutions for business and society"
+    },
+    "auth": {
+        "signInTitle": "Welcome back to Biangg Research",
+        "signInSubtitle": "Enter your credentials to access your research dashboard",
+        "emailLabel": "Email",
+        "emailPlaceholder": "researcher@example.com",
+        "emailRequired": "Email is required",
+        "invalidEmail": "Please enter a valid email address",
+        "passwordLabel": "Password",
+        "passwordPlaceholder": "Enter your password",
+        "passwordRequired": "Password is required",
+        "forgotPassword": "Forgot password?",
+        "signInButton": "Sign In",
+        "signingIn": "Signing in...",
+        "orContinueWith": "Or continue with",
+        "signInWithGoogle": "Continue with Google",
+        "noAccount": "Don't have an account?",
+        "signUpLink": "Sign up",
+        "googleLoginSuccess": "Google authentication successful",
+        "googleLoginFailed": "Google login failed. Please try again.",
+        "googleLoginError": "Error during Google authentication",
+        "signUpTitle": "Create an account",
+        "signUpSubtitle": "Enter your details below to create a new account",
+        "signUpButton": "Sign Up",
+        "creatingAccount": "Creating account...",
+        "signUpSuccess": "Account created successfully!",
+        "nameLabel": "Full Name",
+        "namePlaceholder": "Your full name",
+        "nameRequired": "Name is required",
+        "confirmPasswordLabel": "Confirm Password",
+        "confirmPasswordPlaceholder": "Confirm your password",
+        "confirmPasswordRequired": "Please confirm your password",
+        "passwordsMustMatch": "Passwords must match",
+        "alreadyHaveAccount": "Already have an account?",
+        "signInLink": "Sign In",
+        "sendResetLink": "Send Reset Link",
+        "backToSignIn": "Back to Sign In",
+        "resetRequestFailed": "Fail Request",
+        "resetEmailSent": "Reset Email Sent",
+        "sending": "Sending Reset Email...",
+        "forgotPasswordTitle": "Forgot Password?"
+    },
+    "weightLossPage": {
+        "hero": {
+            "title": "12-Week Weight Loss Program",
+            "subtitle": "A comprehensive program designed to help you adopt healthy eating habits and improve your physical, social, and mental well-being"
+        },
+        "programOverview": {
+            "title": "Program Overview",
+            "description": "This 12-week program provides essential tools for weight loss through 5 video modules in English. Each module contains 2-5 lessons ranging from 8 to 22 minutes each. You'll learn practical skills like reading nutrition labels and determining your body's water needs. You can purchase all 5 modules for optimal results or just the ones that interest you.",
+            "tools": "The program comes with measurement tools including a scale, BMI calculator, jump rope, blood pressure monitor, and electronic jump rope. These tools available in our health store will help you track your progress."
+        },
+        "modules": {
+            "title": "Program Modules",
+            "list": [
+                {
+                    "title": "Module 1: Getting Started",
+                    "lessons": [
+                        "Unit 1.3: Food Choices",
+                        "Unit 1.4: Health Risks Associated with Body Weight and Fat"
+                    ]
+                },
+                {
+                    "title": "Module 2: Nutrition and Health",
+                    "lessons": [
+                        "Unit 2.1: Nutrients and Calories",
+                        "Unit 2.2: Food Groups",
+                        "Unit 2.3: Nutritional Assessment",
+                        "Unit 2.4: Hypertension and Cardiovascular Diseases",
+                        "Unit 2.5: Diabetes and Metabolic Syndrome"
+                    ]
+                },
+                {
+                    "title": "Module 3: Nutrition Facts Label",
+                    "lessons": [
+                        "Unit 3.1: Understanding Portion Sizes",
+                        "Unit 3.2: Understanding Nutrition Labels",
+                        "Unit 3.3: Dietary Reference Intake vs Daily Value",
+                        "Unit 3.4: Grocery Shopping"
+                    ]
+                },
+                {
+                    "title": "Module 4: Meal Planning",
+                    "lessons": [
+                        "Unit 4.1: Six Principles of Meal Planning",
+                        "Unit 4.2: Case Study: Mediterranean vs Low-Fat Vegan Diet",
+                        "Unit 4.3: Intermittent Fasting",
+                        "Unit 4.4: Weight Loss Plan"
+                    ]
+                },
+                {
+                    "title": "Module 5: Energy Balance",
+                    "lessons": [
+                        "Unit 5.1: Water Intake",
+                        "Unit 5.2: Energy Expenditure",
+                        "Unit 5.3: Energy Requirements"
+                    ]
+                }
+            ]
+        },
+        "sampleLesson": {
+            "title": "Sample Lesson",
+            "description": "Unit 4.1: Six Principles of Meal Planning"
+        },
+        "testimonial": {
+            "title": "Success Story",
+            "description": "Hear from Gloria who completed Biangg's Weight Loss Program"
+        },
+        "cta": {
+            "title": "Start Your Weight Loss Journey Today",
+            "subtitle": "Join our 12-week program and transform your health and well-being",
+            "buttons": {
+                "register": "Register Now",
+                "learnMore": "Learn More"
+            }
+        }
+    },
+    "howWeWorkPage": {
+        "hero": {
+            "title": "How We Work",
+            "subtitle": "Shared values that drive our collaborative approach"
+        },
+        "intro": {
+            "title": "Our Collaborative Approach",
+            "content": "Around shared values, we enhance your competitiveness while simultaneously advancing the economic and social conditions of the communities in which you operate through community engagement, research, and knowledge dissemination."
+        },
+        "process": {
+            "title": "Our Process",
+            "steps": [
+                {
+                    "title": "Situation",
+                    "description": "You have a problem, a project, objectives, and results you want to achieve"
+                },
+                {
+                    "title": "Approach",
+                    "description": "Study design and data analysis"
+                },
+                {
+                    "title": "Strategies",
+                    "description": "Strategy development through co-production"
+                }
+            ],
+            "conclusion": "To meet your needs, we adopt a supportive stance by customizing our approach according to your situation and work with you in co-production at every stage of the research project and strategy development."
+        },
+        "cta": {
+            "title": "Ready to collaborate with us?",
+            "subtitle": "Contact us to discuss how we can work together on your next project",
+            "buttons": {
+                "contact": "Contact Us",
+                "learnMore": "Learn About Our Projects"
+            }
+        }
+    },
+    "researchData": {
+        "badge": "Open Data",
+        "title": "Research Data Center",
+        "description": "Access anonymized datasets from our studies to support your own research and analysis.",
+        "stats": {
+            "datasets": "Datasets",
+            "countries": "Countries",
+            "downloads": "Downloads",
+            "anon": "Anonymized",
+            "topics": "Topics"
+        },
+        "search": {
+            "placeholder": "Search datasets..."
+        },
+        "filter": {
+            "topic": "Filter by topic",
+            "format": "Filter by format",
+            "all": "All formats"
+        },
+        "topics": {
+            "education": "Education",
+            "health": "Health",
+            "economics": "Economics",
+            "gender": "Gender"
+        },
+        "size": "Size",
+        "downloads": "Downloads",
+        "date": "Published",
+        "download": "Download Dataset",
+        "cta": {
+            "title": "Have research data to share?",
+            "description": "Contribute to open science by sharing your anonymized datasets with the research community.",
+            "primary": "Submit Dataset",
+            "secondary": "Learn How to Anonymize"
+        }
+    },
+    "booking": {
+        "title": "Booking",
+        "description": "Book a session with our experts",
+        "form": {
+            "name": "Your Name",
+            "email": "Your Email",
+            "date": "Preferred Date",
+            "time": "Preferred Time",
+            "message": "Message",
+            "loading": "Sending...",
+            "phone": "Phone",
+            "submit": "Book Now",
+            "cancel": "Cancel",
+            "confirm": "Confirm"
+        },
+        "success": "Booking successful! We will be in touch soon.",
+        "errors": {
+            "requiredFields": "Please fill in all required fields",
+            "invalidEmail": "Please enter a valid email",
+            "pastDate": "Please select a future date",
+            "general": "Error booking appointment. Please try again.",
+            "network": "Network error. Please check your internet connection."
+        }
+    }
+}
