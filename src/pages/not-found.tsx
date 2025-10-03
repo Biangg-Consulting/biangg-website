@@ -12,7 +12,7 @@ export const NotFoundPage = () => {
       {/* Animated background elements */}
       <div className="absolute inset-0 overflow-hidden pointer-events-none">
         <div className="absolute top-1/4 left-1/4 w-2 h-2 bg-blue-400 rounded-full animate-twinkle" />
-        <div className="absolute top-1/3 right-1/3 w-3 h-3 bg-purple-400 rounded-full animate-twinkle-delay" />
+        <div className="absolute top-1/3 right-1/3 w-3 h-3 bg-[#0A2342] rounded-full animate-twinkle-delay" />
         <div className="absolute bottom-1/4 right-1/4 w-2 h-2 bg-cyan-400 rounded-full animate-twinkle-delay-2" />
         
         {/* Floating planets */}
@@ -27,7 +27,7 @@ export const NotFoundPage = () => {
           <span className="text-5xl font-bold bg-gradient-to-r from-cyan-400 to-blue-500 text-transparent bg-clip-text">
             {t("notFound.errorCode")}
           </span>
-          <Satellite className="h-8 w-8 text-purple-400 animate-spin-slow" />
+          <Satellite className="h-8 w-8 text-[#0A2342] animate-spin-slow" />
         </div>
 
         {/* Main content */}
